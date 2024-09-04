@@ -1,9 +1,4 @@
 # Panel-Regression-in-R
-Here’s a sample `README.md` file for your GitHub page, outlining the purpose of the repository, providing instructions on how to use the code, and linking to the article:
-
----
-
-# Analyzing the Effectiveness of Treatments on Diastolic Blood Pressure: A Panel Data Approach
 
 ## Overview
 
@@ -14,8 +9,7 @@ This repository contains the R code and R Markdown files used in Medium  article
 - `DBP_Analysis.Rmd`: The R Markdown file containing the complete code and documentation for the analysis.
 - `DBP_Analysis.html`: The rendered HTML document generated from the R Markdown file.
 - `data/`: A folder containing the dataset used in the analysis.
-- `figures/`: A folder containing the plots generated during the analysis.
-- `results/`: A folder containing output tables and summary statistics.
+
 
 ## Getting Started
 
