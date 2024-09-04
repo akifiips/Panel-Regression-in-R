@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the R code and R Markdown files used in Medium  article titled "Panel data regression in R" 
+This repository contains the R code and R Markdown files used in Medium  article titled "Panel Data Regression in R" 
 
 ## Contents
 
@@ -42,8 +42,3 @@ The analysis focuses on the following:
 
 Readers are encouraged to explore generalized linear models (GLMs) for panel data, such as logistic regression, which may be particularly useful for binary or categorical outcomes.
 
-
-
----
-
-This `README.md` provides a clear guide for users who visit your GitHub page and wish to explore or replicate your analysis. You can customize the details like the repository link, your contact information, and any additional instructions you think are necessary.
