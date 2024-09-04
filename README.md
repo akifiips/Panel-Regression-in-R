@@ -6,19 +6,19 @@ This repository contains the R code and R Markdown files used in Medium  article
 
 ## Contents
 
-- `DBP_Analysis.Rmd`: The R Markdown file containing the complete code and documentation for the analysis.
-- `DBP_Analysis.html`: The rendered HTML document generated from the R Markdown file.
-- `data/`: A folder containing the dataset used in the analysis.
+- `panel_markdown.Rmd`: The R Markdown file containing the complete code and documentation for the analysis.
+- `panel_dbp.R`: R Script file  containing all the codes used in the article.
+- `markdown.pdf`: PDF file of the R-markdown outcome
+- `dbp_data.xlsx`: Data used in showing the analsyis
 
 
-## Getting Started
 
 ### Prerequisites
 
 Ensure you have the following R packages installed:
 
 - `plm`
-- `dplyr`
+- `tidyverse`
 - `ggplot2`
 - `lattice`
 
@@ -26,8 +26,7 @@ You can install these packages using the following commands:
 
 ```r
 install.packages("plm")
-install.packages("dplyr")
-install.packages("ggplot2")
+install.packages("tidyverse")
 install.packages("lattice")
 ```
 
